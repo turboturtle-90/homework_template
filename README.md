@@ -44,16 +44,13 @@ build:
 ```
 
 `Файл .gitlab-ci.yml зарушен в проект`
-![img/scr1-empty_repo_.jpg](https://github.com/turboturtle-90/homework_template/blob/cc21548516789db38e9b175ca51359b0b38af7d4/img/scr1-empty_repo_.jpg)
+![img/scr4.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr4.jpg)
 
 `Отработал test`
-![img/scr2-runner_props.jpg](https://github.com/turboturtle-90/homework_template/blob/cc21548516789db38e9b175ca51359b0b38af7d4/img/scr2-runner_props.jpg)
+![img/scr5.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr5.jpg)
 
 `Отработал и build`
-![img/scr3-runner_online.jpg](https://github.com/turboturtle-90/homework_template/blob/cc21548516789db38e9b175ca51359b0b38af7d4/img/scr3-runner_online.jpg)
-
+![img/scr6.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr6.jpg)
 
 ---
-
-`При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
