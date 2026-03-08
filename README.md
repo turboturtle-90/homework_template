@@ -50,6 +50,6 @@ build:
 ![img/scr5.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr5.jpg)
 
 `Отработал и build`
-![img/scr6.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr6.jpg)`
+![img/scr6.jpg](https://github.com/turboturtle-90/homework_template/blob/6e8469012126dd21e97761ec9fd813abe68d2681/img/scr6.jpg)
 
 ---
